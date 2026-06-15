@@ -1,4 +1,6 @@
 # Domo Embed Frames Example
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2FJSAPIExample.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2FJSAPIExample?ref=badge_shield)
+
 
 This project demonstrates how to create a custom application that embeds Domo cards and utilizes postMessage communication between your custom frames and Domo's embedded analytics.
 
@@ -267,6 +269,9 @@ Configure CSP headers to allow embedding from trusted Domo domains.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2FJSAPIExample.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2FJSAPIExample?ref=badge_large)
 
 ## Available Scripts
 
